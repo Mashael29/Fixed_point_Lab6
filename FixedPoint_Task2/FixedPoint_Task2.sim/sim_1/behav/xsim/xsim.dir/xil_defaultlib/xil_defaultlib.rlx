@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/FixedPorint_Lab6/FixedPoint_Task2/FixedPoint_Task2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/FixedPorint_Lab6/FixedPoint_Task2/FixedPoint_Task2.srcs/sim_1/new/TB_Fixed_point.sv,1732461119,systemVerilog,,,,TB_Fixed_point,,,,,,,,
+/home/it/Desktop/FixedPorint_Lab6/FixedPoint_Task2/FixedPoint_Task2.srcs/sources_1/new/Fixed_point_Adder.sv,1732460897,systemVerilog,,/home/it/Desktop/FixedPorint_Lab6/FixedPoint_Task2/FixedPoint_Task2.srcs/sim_1/new/TB_Fixed_point.sv,,Fixed_point_Adder,,,,,,,,

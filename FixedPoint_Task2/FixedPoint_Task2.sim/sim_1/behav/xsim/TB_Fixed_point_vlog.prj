@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../FixedPoint_Task2.srcs/sources_1/new/Fixed_point_Adder.sv" \
+"../../../../FixedPoint_Task2.srcs/sim_1/new/TB_Fixed_point.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
